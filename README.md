@@ -70,6 +70,8 @@ THEN I as a user, can create a thought, create a reaction to a thought, and add 
 - npm i @apollo/client graphql (in client directory)
 - npm init -y
 - npm install -D concurrently
+- npm install react-router-dom (in client directory only)
+
 
 ## Tools
 - React
