@@ -65,7 +65,11 @@ THEN I as a user, can create a thought, create a reaction to a thought, and add 
 💾     
 - npm install (in server directory)
 - npm i apollo-server-express graphql (in server directory)
-- 
+- npm install jsonwebtoken   (in server directory)
+- npx create-react-app client   (in client directory)
+- npm i @apollo/client graphql (in client directory)
+- npm init -y
+- npm install -D concurrently
 
 ## Tools
 - React
